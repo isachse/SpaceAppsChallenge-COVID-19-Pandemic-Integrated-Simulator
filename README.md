@@ -1,5 +1,5 @@
 
-# SceneFromSpace
+# COVID-19 Pandemic Integrated Simulator
 ## The Challenge
 
-The COVID-19 pandemic initiated changes in human population movements and activities around the world. Your challenge is to use Earth observations to explore how human activity and regional land-based human movement patterns may have shifted in response to COVID-19.
+Your challenge is to integrate various Earth Observation-derived features with available socio-economic data in order to discover or enhance our understanding of COVID-19 impacts.
