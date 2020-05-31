@@ -23,6 +23,10 @@ Your challenge is to integrate various Earth Observation-derived features with a
 - Number of commercial flights tracked by Flightradar24, per day (UTC time), last 120 days
 - Statistic CSVs https://www.flightradar24.com/data/statistics
 
+#### Google COVID-19 Community Mobility Report
+- "The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential."
+- https://www.google.com/covid19/mobility/ 
+
 #### Twitter timeline sample
 - Small sample dataset of retweeted COVID-19 news since beginning 2020
 - Not representative, just showcase dataset
