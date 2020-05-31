@@ -1,5 +1,7 @@
 # COVID-19 Pandemic Integrated Simulator
 
+<img src="images/elk.png" width="480">
+
 ## The Challenge
 Your challenge is to integrate various Earth Observation-derived features with available socio-economic data in order to discover or enhance our understanding of COVID-19 impacts.
 
@@ -23,6 +25,33 @@ Your challenge is to integrate various Earth Observation-derived features with a
 - Number of commercial flights tracked by Flightradar24, per day (UTC time), last 120 days
 - Statistic CSVs https://www.flightradar24.com/data/statistics
 
+#### Google COVID-19 Community Mobility Report
+- "The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential."
+- https://www.google.com/covid19/mobility/ 
+
 #### Twitter timeline sample
 - Small sample dataset of retweeted COVID-19 news since beginning 2020
 - Not representative, just showcase dataset
+
+## Visualization Technologies
+
+### Splunk Enterprise
+- Free, closed source option might fit major requirements
+- Option was discarded by SpaceApps GO team because of missing usage approval from the vendor
+- https://www.splunk.com
+
+### Tableau Desktop
+- 14 days trial license available as they are official partner of SpaceApps challenge
+- Works fine for ad-hoc analyzes, but missing options to publish the results for interactive usage as long you stay at the desktop version without cloud component
+- https://www.tableau.com/de-de/products/desktop
+
+### ELK (Elasticsearch, Logsdash, Kibana) - Stack
+- Apache 2.0 licensed stack of applications for data analysis especially for IT operations
+- Good to use for time series data
+- Open source edition is missing proper authentication mechanisms which makes it useless for long term solution
+- Commercial components which heals that problem are not allowed in context of SpaceApps challenge
+- https://www.elastic.co/de/what-is/elk-stack
+
+### Plotly Python Open Source Graphing Library
+- Python library to generate visualizations as dynamic content for website creation
+- https://plotly.com/python/
