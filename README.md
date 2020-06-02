@@ -1,14 +1,13 @@
 # COVID-19 Pandemic Integrated Simulator
 
+Screenshot of the ELK dashboard based on Elasticsearch 
 <img src="images/elk.png" width="480">
 
-Interactive timelines the Covid-19 pandemic in Madrid, Milan and Rome
+Interactive timelines the Covid-19 pandemic in Madrid, Milan and Rome based on Plotly framework
 
-[Covid-19 timeline Madrid](https://htmlpreview.github.io/?https://github.com/isachse/SpaceAppsChallenge-COVID-19-Pandemic-Integrated-Simulator/blob/master/html/MadridCovid-19_timeline.html)
-
-[Covid-19 timeline Milan](https://htmlpreview.github.io/?https://github.com/isachse/SpaceAppsChallenge-COVID-19-Pandemic-Integrated-Simulator/blob/master/html/MilianCovid-19_timeline.html)
-
-[Covid-19 timeline Rome](https://htmlpreview.github.io/?https://github.com/isachse/SpaceAppsChallenge-COVID-19-Pandemic-Integrated-Simulator/blob/master/html/RomeCovid-19_timeline.html)
+* [Covid-19 timeline Madrid](https://htmlpreview.github.io/?https://github.com/isachse/SpaceAppsChallenge-COVID-19-Pandemic-Integrated-Simulator/blob/master/html/MadridCovid-19_timeline.html)
+* [Covid-19 timeline Milan](https://htmlpreview.github.io/?https://github.com/isachse/SpaceAppsChallenge-COVID-19-Pandemic-Integrated-Simulator/blob/master/html/MilianCovid-19_timeline.html)
+* [Covid-19 timeline Rome](https://htmlpreview.github.io/?https://github.com/isachse/SpaceAppsChallenge-COVID-19-Pandemic-Integrated-Simulator/blob/master/html/RomeCovid-19_timeline.html)
 
 ## The Challenge
 Your challenge is to integrate various Earth Observation-derived features with available socio-economic data in order to discover or enhance our understanding of COVID-19 impacts.
